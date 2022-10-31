@@ -86,6 +86,7 @@ button{
         width: 1300px;
         height: 800px;
         flex-direction:row;
+        margin-top:-20px;
    }
    .outerbox div{
        height: 450px;
