@@ -22,7 +22,7 @@
 }
 .inbox{
     border-radius: 10px 10px 0px 0px;
-    background-image: url('images/image-product-mobile.jpg');
+    background-image: url('image-product-mobile.jpg');
     background-size: cover;
    
 }
@@ -92,7 +92,7 @@ button{
    }
    .inbox{
        border-radius: 10px 0px 0px 10px;
-       background-image: url('images/image-product-desktop.jpg');
+       background-image: url('image-product-desktop.jpg');
    }
    #inbox2{
        height: 450px;
